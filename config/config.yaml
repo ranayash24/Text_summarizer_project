@@ -3,6 +3,5 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
-  local_data_file: artifacts/data_ingestion/data.zip
+  source_URL: C:\Users\admin\OneDrive\Desktop\Machine-learning A-Z\deep learning\Text_summarizer_project\summarizer-data.zip
   unzip_dir: artifacts/data_ingestion 
